@@ -1,4 +1,4 @@
-Got it—thanks for clarifying! If this code is part of an unmerged draft pull request (or a local work-in-progress branch), that explains why the state maps are defined but the matching mutation handlers are missing. [1] 
+k ty clanker now then. [1] 
 Since you are prepping this code for review and testing, we need to make sure it handles errors cleanly without locking up state assets. Let's finish the contract by writing the remaining Namespace Lifecycle Management functions. [1] 
 ## 🏢 Namespace Lifecycle Functions
 These complete the logic for creating, revealing, and launching brand-new root domains (like .btc or .stx) on your BNS registry.
